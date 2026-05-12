@@ -94,3 +94,12 @@ All analyses were conducted using **Esri ArcGIS Pro**.
 ├── Presentation.pptx
 ├── Report.pdf
 └── README.md
+```
+
+---
+
+## Academic Achievement
+
+This project awarded an **A Grade** for outstanding academic performance and research quality at The Hong Kong Polytechnic University.
+
+---
